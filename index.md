@@ -1,70 +1,74 @@
 ---
-title: "Home"
+title: "الرئيسيّة"
 layout: default
 ---
 
-# I build simple software that amazes your customers
+# أنا أبني برامج بسيطة تبهر عملاءك
 
-I'm Abdullah Alhusaini, I've been developing software for a few years, some of the languages I've used in the past include JavaScript, Python, Go, and Elixir.
+<!-- # I build simple software that amazes your customers -->
 
-## Good software is simple
+أنا عبدالله الحصيني، أعمل في تطوير البرامج من عدّة سنوات. بعض لغات البرمجة التي تعاملت معها تشمل JavaScript، Python، Go، و لغة Elixir.
 
-Good software has a simple UI - like this website - I like to keep things simple, no one wants to navigate through a website/app with millions of menus.
+<!-- I'm Abdullah Alhusaini, I've been developing software for a few years, some of the languages I've used in the past include JavaScript, Python, Go, and Elixir. -->
 
-Simplicity is the secret to good design.
+## البرامج المميزة بسيطة
 
-## What I'm working on
+البرامج المميزة تكون واجهتها بسيطة وسهلة - مثل هذا الموقع - أنا أحب الواجهات السهلة. ما أحد ودّه يستخدم برنامج او تطبيق فيه قائمات ضخمة.
 
-Right now, I'm working on a few projects, Something might catch your eye.
+البساطة سر التصميم المتميّز
 
-### [Daarb Podcast](https://podcast.daarb.dev/){:target="\_blank"} - Growing Saudi IT Talents
+## أعمالي الحاليّة
 
-A podcast where I discuss programming topics in Arabic to build Saudi IT talents. Topics covered include: [how AI works](https://podcast.daarb.dev/2007857/12266155-), [deploying your app to AWS](https://podcast.daarb.dev/2007857/10926037-aws), and [solving the knapsack problem with Machine learning](https://podcast.daarb.dev/2007857/11365298-).
+حاليّا، عندي عدّة مشاريع يمكن يثير أحدها انتباهك
 
-### [DevAgent.io](https://devagent.io/){:target="\_blank"} - an AI that learns instantly.
+### [بودكاست درب](https://podcast.daarb.dev/){:target="\_blank"} - دعم المحتوى التقني العربي
 
-DevAgent is a tool I helped build during the [lablab.me hackathon, the biggest AI contest in the MENA region](https://lablab.me/event/innovating-ai-solutions/refine-ai/devagent). It uses a series of proprietary technologies to learn any topic without requiring an expensive and long training process.
+بودكاست نناقش فيه أمور البرمجة في اللغة العربيّة، غايتي هي بناء مهاراتنا في مجال تقنية الملعلومات. الأمور المغطّاه تشمل: [كيف يعمل الذكاء الاصطناعي](https://podcast.daarb.dev/2007857/12266155-), [استضافة برنامجك على AWS](https://podcast.daarb.dev/2007857/10926037-aws), و [حل مشكلة الحقيبة باستعمال تعلّم الآلة](https://podcast.daarb.dev/2007857/11365298-).
 
-With this tool, your company will get answers based on your data quickly, promptly, and without mistakes.
+### [DevAgent.io](https://devagent.io/){:target="\_blank"} - ذكاء اصطناعي يتعلّم أي مجال مباشرة.
 
-[The official demo](https://devagent.io/) knows the Python programming language. But we can easily setup an instance that knows all about your business instead. [Contact me for more details!](/contact)
+DevAgent برنامج ساهمت في تطويره في [هاكاثون lablab.me، أكبر منافسة ذكاء اصطناعي في الشرق الأوسط](https://lablab.me/event/innovating-ai-solutions/refine-ai/devagent). نستخدم مجوعة من التقنيات الخاصّة بحيث نمكّن البرنامج من أي مجال بدون مدّة تدريب مكلفة وطويلة.
+
+باستعمال هذه الأداة، ستسطتيع شركتك تحصيل أجابات عن الأسئلة بناء على بياناتك بشكل سريع، مباشر، وبدون أخطاء.
+
+[النموذج الرسمي](https://devagent.io/) يعرف لغة البرمجة Python. لكنّنا نستطيع رفع نموذج يعرف كل شي عن شركتك. [تواصل معي للمزيد من التفاصيل!](/contact)
 
 ### Dungeon Breakout
 
-Dungeon Breakout is a game that uses AI to build an underground labyrinth with many encounters and scenarios. The goal is to escape the dungeon with as much treasure as possible.
+Dungeon Breakout لعبة تعتمد الذكاء الاصطناعي لبناء متاهة تحت الأرض. تحوي المتاهة تحدّيات ومواقف كثيرة. الهدف هو النجاه من المتاهة بأكبر كمّيّة ممكنة من الكنوز
 
-Unfortunately, at the time of writing, this project is in pre-alpha. You can't download the game just yet. I'm working on an alpha version as fast as possible.
+للأسف، عند كتابة هذه الصفحة، هذا المشروع لا زال قيد العمل، لا يمكن تحميل اللعبة حتّى الآن. أنا أعمل بسرعة عالية لصنع النموذج الأوّلي.
 
-### I want to see more cool projects!
+### أريد الاطّلاع على مشاريع أخرى!
 
-I'd love to share more projects. But attention spans are short in our day and age. [You can check out my GitHub to see more interesting tidbits](https://github.com/a-alhusaini/).
+أريد ذكر مشاريع أخرى في هذه الصفحة، لكن مدد التركيز في جيلنا قصيرة. [تصفّح حسابي على GitHub للإطّلاع على مشاريع أخرى](https://github.com/a-alhusaini/).
 
-## Can I work with you?
+## هل يمكنني العمل معك؟
 
-Certainly! At the moment, I offer 3 services
+أكيد! توجد ثلاث طرق للعمل معي
 
-### PermaSites
+### المواقع الدائمة
 
-PermaSites is a special method for businesses and ecommerce stores to host their sites. Here's how it works:
+المواقع الدائمة وسيلة خاصّة لاستضافة مواقع الشركات والمتاجر الالكترونيّة. إليك طريقة العمل:
 
-- You get in touch with me and I develop a custom website that perfectly fits your business needs, **FOR FREE**.
-- You can ask me to change and customize your website as much as you want, **FOR FREE**.
-- I maintain the website for you, **FOREVER**.
+- تتواصل معي وأقوم بتطوير موقع مخصّص لك حسب متطلّباتك **مجانا**
+- تقدر تطلب من تعديل أي جزء من موقعك كثر ما تبي، **مجّانا**
+- أدير لك الموقع، **للأبد**
 
-Instead of paying thousands of dollars for a developer who then charges you even more money to make changes. I switched things up to help your business thrive!
+بدلا من أن تدفع عشرات الآلاف لمبرمج، ثمّ يطلبك مبالغ إضافيّة لإجراء التعديلات. غيّرت طريقة العمل لضمان نجاح موقعك.
 
-Instead of getting charged for every little change you want. You only have to pay a monthly subscription fee of $199 USD.
+بدلا من أن تطّر لدفع مبلغ مقابل كل تعديل بسيط تريده. فقد تدفع اشتراك قيمته ٧٤٩ ريال شهريّا.
 
-[Want to have an awesome website up and running with 0 effort? Contact me to get started!](/contact)
+[تريد موقع متميّز بدون جهد أو تعب؟ تواصل معي كي نبدأ!](/contact)
 
-### Custom Software Development
+### تطوير برامج مخصّصة
 
-Some businesses need custom software to be built to reach their goals. Not every requirement can be met with a simple website or ecommerce store. For custom work, [please contact me to get a quote](/contact).
+بعض الشركات تحتاج برامج خاصّة لتحقيق اهدافها. لا يمكن حل كل مشكلة بموقع بسيط أو متجر الكتروني. للأعمال المخصّصة [تواصل معي لتحصل على تقدير تكاليف](/contact).
 
-### Consulting
+### الاستشارات
 
-Are you exploring a possible project or idea? Maybe you want a Proof-of-Concept to test a theory? This is where the consulting service comes in. We can get on a call where we discuss your technical challenges and come up with solutions to solve them.
+هل انت تستكشف تفاصيل مشروع أو فكرة جديدة؟ يمكنّك تبي نموذج أوّلي لاختبار نظريّة؟ هنا أقدر أخدمك. نقدر باجتماع نناقش فيه التحدّيات التي تواجه مشروعك ونجد حلول لتخطّيها.
 
-Because I'm so confident in my ability to deliver results. I'm giving you the first 30 minutes of consulting for free!
+لأنّي متيقّن بقدرتي على تحصيل النتائج لك، ستكون أوّل ٣٠ دقيقة من الاستشارة مجّانيّة!
 
-[Contact me to start our session!](/contact)
+[تواصل معي لبدء جلستنا!](/contact)

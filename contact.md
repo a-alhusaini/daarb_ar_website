@@ -1,11 +1,11 @@
 ---
-titie: "Contact"
+titie: "تواصل"
 layout: default
 ---
 
-# Thanks for connecting with me!
+# أشكرك لتواصلك معي!
 
-You can reach out to me by:
+يمكنك التواصل معي عن طريق:
 
-- [connecting with me on Linkedin](https://www.linkedin.com/in/abdullah-alhusaini-9932531b4/){:target="\_blank"}.
-- [Sending me a DM on X](https://twitter.com/a_a_alhusaini){:target="\_blank"}.
+- [طلب اتّصال على منصّة لنكدن](https://www.linkedin.com/in/abdullah-alhusaini-9932531b4/){:target="\_blank"}.
+- [إرسال رسالة على الخاص في تويتر](https://twitter.com/a_a_alhusaini){:target="\_blank"}.
