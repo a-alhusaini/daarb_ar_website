@@ -9,7 +9,7 @@ layout: default
 
 أنا عبدالله الحصيني، أعمل في تطوير البرامج من عدّة سنوات. بعض لغات البرمجة التي تعاملت معها تشمل JavaScript، Python، Go، و لغة Elixir.
 
-<!-- I'm Abdullah Alhusaini, I've been developing software for a few years, some of the languages I've used in the past include JavaScript, Python, Go, and Elixir. -->
+![أجهزة مستقبليّة](/assets/images/devices.jpeg)
 
 ## البرامج المميزة بسيطة
 
