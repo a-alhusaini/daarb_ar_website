@@ -7,5 +7,9 @@ layout: default
 
 يمكنك التواصل معي عن طريق:
 
-- [طلب اتّصال على منصّة لنكدن](https://www.linkedin.com/in/abdullah-alhusaini-9932531b4/){:target="\_blank"}.
-- [إرسال رسالة على الخاص في تويتر](https://twitter.com/a_a_alhusaini){:target="\_blank"}.
+<div class="group">
+
+{% include link_button.html href="https://www.linkedin.com/in/abdullah-alhusaini-9932531b4/" value="تواصل معي عن طريق لنكدن" %}
+{% include link_button.html href="https://twitter.com/a_a_alhusaini/" value="تواصل معي عن طريق تويتر" %}
+
+</div>
